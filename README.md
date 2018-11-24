@@ -1,2 +1,3 @@
 # literallynodamage
-Generator for the Dota 2 "Taking literally no damage" meme
+
+Generator for the Dota 2 "Literally taking no damage" meme
